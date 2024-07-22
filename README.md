@@ -1,4 +1,4 @@
-# Hi there, I'm Darshan Kumaravel 👋
+# Hi there, I'm Darshan 👋
 
 ## 👀 About Me
 I'm a passionate web developer with an interest in creating interactive and dynamic web applications. I enjoy learning new technologies and improving my coding skills.
