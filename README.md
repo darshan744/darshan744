@@ -8,6 +8,8 @@ I'm a passionate web developer with an interest in creating interactive and dyna
 - ExpressJS
 - NodeJS
 - Angular
+- Java
+- C
 
 ## 📫 How to reach me
 - Email: [darshankumaravelk@gmail.com](mailto:darshankumaravelk@gmail.com)
