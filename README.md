@@ -11,5 +11,3 @@ I'm a passionate web developer with an interest in creating interactive and dyna
 ## 📫 How to reach me
 - Email: [darshankumaravelk@gmail.com](mailto:darshankumaravelk@gmail.com)
 
-## 😄 Pronouns
-He/Him
