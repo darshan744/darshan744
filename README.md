@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan744" alt="darshan744" /></a> </p>
 
-- 🔭 I’m currently working on [Trace](https://github.com/darshan744/Trace , https://github.com/darshan744/Nebula)
+- 🔭 I’m currently working on [Trace](https://github.com/darshan744/Trace)
 
 - 🌱 I’m currently learning **Go , Docker , kubernetes**
 
